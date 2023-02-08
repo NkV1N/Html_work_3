@@ -1,0 +1,43 @@
+body {
+    background: lightyellow;
+}
+h1, h2 {
+    color: darkblue;
+}
+ul {
+    color: green;
+}
+tr, td{
+    text-align: left;
+}
+.navigation {
+    list-style-type: none;
+}
+.navigation a {
+    color: green;
+    text-decoration: none;
+}
+.navigation a:hover {
+    color: lightsalmon;
+    text-decoration: underline;
+}
+.table_hed {
+    color: darkblue;
+}
+.table_row {
+    background-color: lightblue;
+}
+table img {
+    margin-top: 25px;
+}
+.row_ones {
+    background-color: lightpink;
+}
+.a_back {
+    color: green;
+    text-decoration: none;
+}
+.a_back:hover {
+    color: lightsalmon;
+    text-decoration: underline;
+}
